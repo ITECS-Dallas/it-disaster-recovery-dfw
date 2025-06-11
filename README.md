@@ -90,10 +90,10 @@ Easily adapt your IT infrastructure as your business grows and evolves.
 
 While this guide provides valuable insights, partnering with experienced IT professionals ensures optimal results. Here are specialized services that complement this guide:
 
-- **[Data backup and disaster recovery planning](https://itecsonline.com- **/it-services/backup-disaster-recovery**)** - Reliable data protection and disaster recovery
-- **[DR planning essentials](https://itecsonline.com- **/post/disaster-recovery-planning**)** - Professional IT services tailored to your needs
-- **[Local DR considerations](https://itecsonline.com- **/post/it-disaster-recovery-planning-for-dallas-businesses**)** - Professional IT services tailored to your needs
-- **[Veeam O365 backup guide](https://itecsonline.com- **/post/veeam-backup-for-microsoft-365**)** - Reliable data protection and disaster recovery
+- **[Data backup and disaster recovery planning](https://itecsonline.com/**/it-services/backup-disaster-recovery**)** - Reliable data protection and disaster recovery
+- **[DR planning essentials](https://itecsonline.com/**/post/disaster-recovery-planning**)** - Professional IT services tailored to your needs
+- **[Local DR considerations](https://itecsonline.com/**/post/it-disaster-recovery-planning-for-dallas-businesses**)** - Professional IT services tailored to your needs
+- **[Veeam O365 backup guide](https://itecsonline.com/**/post/veeam-backup-for-microsoft-365**)** - Reliable data protection and disaster recovery
 
 
 ## Additional Resources
